@@ -12,5 +12,6 @@ public class Enteros {
         } else {
             System.out.println("El número es cero");
         }
+        lectura.close();
     }
 }

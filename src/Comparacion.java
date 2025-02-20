@@ -15,6 +15,7 @@ public class Comparacion {
         } else {
             System.out.println("El segundo número es mayor que el primero");
         }
+        lectura.close();
     }
 
 }
